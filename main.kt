@@ -8,4 +8,4 @@ fun main(){
     println(age)
     println(phoneNumber)
     println(weight)
-    print(citizenOfKenya)
+    println(citizenOfKenya)
